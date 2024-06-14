@@ -40,7 +40,7 @@ The Expense Management Application is a web-based tool designed to help users tr
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/expense-management-app.git
+   git clone https://github.com/Anpatil1/expense-management-web-applicationt.git
    ```
 
 2. **Set up the database**
